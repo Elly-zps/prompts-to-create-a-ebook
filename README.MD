@@ -5,18 +5,6 @@
 />
 </p>
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-     
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
 
 <p align="center">
     preview do podcast
@@ -51,7 +39,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
+
 - [Notion Template](https://www.notion.so/O-EXPRESSO-DO-DOM-Uma-aventura-sem-escalas-no-mundo-das-telas-interativas-17411148408d806f99b8f37864a0c628)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
